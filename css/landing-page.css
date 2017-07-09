@@ -187,9 +187,10 @@ p.copyright {
 .bold-red-font {
     color: red;
     font-weight: bold;
+    display: inline;
 }
 
 .hr {
-    height: 2px;
+    height: 5px;
     color: #333; 
 }
