@@ -188,3 +188,8 @@ p.copyright {
     color: red;
     font-weight: bold;
 }
+
+.hr {
+    height: 2px;
+    color: #333; 
+}
