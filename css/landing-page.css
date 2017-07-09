@@ -176,3 +176,10 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+.center-image {
+    margin: auto;
+    width: 100%;
+    display: block;
+    text-align: center;
+}
