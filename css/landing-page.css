@@ -183,3 +183,8 @@ p.copyright {
     display: block;
     text-align: center;
 }
+
+.bold-red-font {
+    color: red;
+    font-weight: bold;
+}
