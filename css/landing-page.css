@@ -40,9 +40,9 @@ h6 {
 }
 
 .intro-banner {
-    padding-top: 150px;
+    padding-top: 80px;
     width: 100%;
-    height: 100%;
+    height: 50%;
     text-align: center;
     color: #f8f8f8;
     background: url(../img/basic.png) no-repeat center center;
