@@ -231,11 +231,11 @@ p.copyright {
 .buttton {
     background-color: green;
     border: none;
-    color: red;
-    padding: 25px 20px;
+    color: blue;
+    padding: 20px 20px;
     text-align: center;
-    text-decoration:none;
-    display: inline block;
+    text-decoration: none;
+    display: inline-block;
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
