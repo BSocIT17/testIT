@@ -1,0 +1,20 @@
+<!DOCTYPE css>
+html, body, div, iframe, h1, h2, h3, h4, h5, h6 {
+		margin: 0px;
+		padding: 0px;
+		outline: 0px;
+		font-size: 100%;
+}
+h1 {
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 0.95px;
+		color: #FFFFFF;
+		margin: 0px;
+}
+
+p2 {
+		font-size: 1px;
+		background-color: green;
+		font-weight: bold;
+		color: white;
+}
