@@ -229,10 +229,10 @@ p.copyright {
 }
 
 .buttton {
-    background-color: #green;
+    background-color: green;
     border: none;
     color: red;
-    padding: 15px 32px;
+    padding: px 32px;
     text-align: center;
     display: inline block;
     font-size: 16px;
@@ -244,7 +244,7 @@ p.copyright {
     background-color: #4CAF50;
     border: none;
     color: red;
-    padding: 15px 32px;
+    padding: 50px 50px;
     text-align: center;
     display: inline block;
     font-size: 16px;
